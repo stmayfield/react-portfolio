@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/stmayfield.github.io/react-portfolio/static/css/main.728dea49.chunk.css",
-    "main.js": "/stmayfield.github.io/react-portfolio/static/js/main.c483c6f8.chunk.js",
-    "main.js.map": "/stmayfield.github.io/react-portfolio/static/js/main.c483c6f8.chunk.js.map",
-    "runtime-main.js": "/stmayfield.github.io/react-portfolio/static/js/runtime-main.4e1ad8bb.js",
-    "runtime-main.js.map": "/stmayfield.github.io/react-portfolio/static/js/runtime-main.4e1ad8bb.js.map",
-    "static/js/2.ed1baa99.chunk.js": "/stmayfield.github.io/react-portfolio/static/js/2.ed1baa99.chunk.js",
-    "static/js/2.ed1baa99.chunk.js.map": "/stmayfield.github.io/react-portfolio/static/js/2.ed1baa99.chunk.js.map",
-    "index.html": "/stmayfield.github.io/react-portfolio/index.html",
-    "precache-manifest.93d7ab960ee001c3789d685e4bd3b408.js": "/stmayfield.github.io/react-portfolio/precache-manifest.93d7ab960ee001c3789d685e4bd3b408.js",
-    "service-worker.js": "/stmayfield.github.io/react-portfolio/service-worker.js",
-    "static/css/main.728dea49.chunk.css.map": "/stmayfield.github.io/react-portfolio/static/css/main.728dea49.chunk.css.map",
-    "static/js/2.ed1baa99.chunk.js.LICENSE.txt": "/stmayfield.github.io/react-portfolio/static/js/2.ed1baa99.chunk.js.LICENSE.txt",
-    "static/media/contact_img1.png": "/stmayfield.github.io/react-portfolio/static/media/contact_img1.3ebe8e03.png",
-    "static/media/contact_img2.png": "/stmayfield.github.io/react-portfolio/static/media/contact_img2.fbd05ac6.png",
-    "static/media/logo.svg": "/stmayfield.github.io/react-portfolio/static/media/logo.5d5d9eef.svg",
-    "static/media/profile.png": "/stmayfield.github.io/react-portfolio/static/media/profile.5d04730e.png"
+    "main.css": "/react-portfolio/static/css/main.728dea49.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.f4a3abd7.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.f4a3abd7.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.35ccbaf0.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.35ccbaf0.js.map",
+    "static/js/2.ed1baa99.chunk.js": "/react-portfolio/static/js/2.ed1baa99.chunk.js",
+    "static/js/2.ed1baa99.chunk.js.map": "/react-portfolio/static/js/2.ed1baa99.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.6b7d63cc5d3f3cc3bb4aad64cba89d58.js": "/react-portfolio/precache-manifest.6b7d63cc5d3f3cc3bb4aad64cba89d58.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.728dea49.chunk.css.map": "/react-portfolio/static/css/main.728dea49.chunk.css.map",
+    "static/js/2.ed1baa99.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.ed1baa99.chunk.js.LICENSE.txt",
+    "static/media/contact_img1.png": "/react-portfolio/static/media/contact_img1.3ebe8e03.png",
+    "static/media/contact_img2.png": "/react-portfolio/static/media/contact_img2.fbd05ac6.png",
+    "static/media/logo.svg": "/react-portfolio/static/media/logo.5d5d9eef.svg",
+    "static/media/profile.png": "/react-portfolio/static/media/profile.5d04730e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e1ad8bb.js",
+    "static/js/runtime-main.35ccbaf0.js",
     "static/js/2.ed1baa99.chunk.js",
     "static/css/main.728dea49.chunk.css",
-    "static/js/main.c483c6f8.chunk.js"
+    "static/js/main.f4a3abd7.chunk.js"
   ]
 }
