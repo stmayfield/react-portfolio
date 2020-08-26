@@ -2,7 +2,7 @@
   "name": "20-react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://stmayfield.github.io/react-portfolio/",
+  "homepage": "http://stmayfield.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
