@@ -1,13 +1,14 @@
 import React from "react";
-import { Link, useLocation } from "react-router-dom";
 import './style.css';
+import { Link, useLocation } from "react-router-dom";
+
 
 function Navbar() {
 
     const location = useLocation()
 
     return (
-        <nav className="navbar navbar-expand-lg navbar-dark">
+        <nav className="navbar navbar-expand-lg navbar-dark" id="mainNav">
             <a className="navbar-brand" href="/">Stephen Mayfield</a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -17,8 +18,8 @@ function Navbar() {
                 <ul className="navbar-nav">
                     <li className="nav-item">
                         <Link
-                            to="/"
-                            className={location.pathname === "/" ? "nav-link active" : "nav-link"}
+                            to="/about"
+                            className={location.pathname === "/about" ? "nav-link active" : "nav-link"}
                         >
                             About
                         </Link>
@@ -26,7 +27,8 @@ function Navbar() {
                     <li className="nav-item">
                         <Link
                             to="/portfolio"
-                            className={location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}                        >
+                            className={location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}
+                        >
                             Portfolio
                         </Link>
                     </li>
