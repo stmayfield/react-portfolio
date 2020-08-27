@@ -2,6 +2,7 @@ import React from 'react';
 import Header from '../components/Header'
 import profile from '../assets/img/profile.png'
 
+
 function About() {
 
     return (
